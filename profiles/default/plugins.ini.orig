@@ -1,0 +1,7 @@
+[@Basic]
+[NextRelease]
+[@Git]
+[Git::Init]
+[Git::NextVersion]
+first_version  = 0.001
+version_regexp = ^v(.+)$
